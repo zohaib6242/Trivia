@@ -1,7 +1,7 @@
 # Trivia
-Trivia app gives you the way to examine your knowledge by attempting a quiz.It comes with different categories of questions and difficulty level.
-The main fuctionalities of the trivia app are give below:
-It allows two types of modes to attempt a quiz:
+Trivia app gives you the way to examine your knowledge by attempting a quiz.It comes with different categories of questions and difficulty level.<br />
+The main fuctionalities of the trivia app are give below:<br />
+It allows two types of modes to attempt a quiz:<br />
     1.Normal mode(main features are following):
         i.Firstly user should have to select a category.
        ii.Then user should select the difficulty level.
